@@ -1,1 +1,1 @@
-# tanka-tester
+# tanka-testa
